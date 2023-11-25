@@ -28,3 +28,4 @@ console.log(xpDoHeroi)
         
     else
         console.log("Rank atual do " + nomeDoHeroi + " é Radiante. Paranbéns, você chegou ao rank maximo")
+    
